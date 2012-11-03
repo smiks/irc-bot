@@ -1,3 +1,7 @@
 Working version of irc bot.
--working function:
-welcome (replies with have a nice day!)
+more commands added
+-explode
+-listen
+-command
+etc.
+added 0.2second sleep
